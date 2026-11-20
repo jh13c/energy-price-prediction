@@ -9,7 +9,7 @@ The intention of this project is to model the Finnish aFRR Up-regulation price b
 <br><br>
 ## [Report](/assets/Report.pdf)
 
-## [Code](https://colab.research.google.com/github/jh13c/jh13c.github.io/blob/main/assets/projectcode.ipynb)
+## [Code](https://colab.research.google.com/github/jh13c/energy-price-prediction/blob/main/assets/projectcode.ipynb)
 
 ## [Dataset](https://zenodo.org/records/17494556)
 
