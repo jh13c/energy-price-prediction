@@ -1,4 +1,4 @@
-<img align="right" width="220" height="220" src="/assets/IMG/template_logo.png">
+<img align="right" width="220" height="220" src="assets/IMG/template_logo.png">
 
 # Predicting aFRR Up-Regulation Energy Prices Using Weather, Demand-Side, and Spot Price Data
 <br>
